@@ -1,4 +1,4 @@
-# WRTDS-Fire Model
+# WRTDS-fire Model
 # Xinyuan Wei
 # 1/16/2020
 
